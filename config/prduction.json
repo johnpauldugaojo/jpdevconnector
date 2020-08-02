@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://JPMERN:jp123@devconnector-uc4am.mongodb.net/mernDB?retryWrites=true&w=majority",
+  "jwtSecret": "mySecretToken",
+  "githubClientId": "3cca22536431656de8b5",
+  "githubSecret": "434d5b056881cf10edc38961d1387c4d0559bb6f"
+}
